@@ -1,0 +1,16 @@
+.rich-text-editor .quill {
+  border-radius: 0.5rem;
+  border: 1px solid #e2e8f0;
+}
+.rich-text-editor .ql-toolbar {
+  border: none;
+  border-bottom: 1px solid #e2e8f0;
+  background: #f8fafc;
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+.rich-text-editor .ql-container {
+  border: none;
+  border-radius: 0 0 0.5rem 0.5rem;
+  min-height: 120px;
+  font-size: 0.875rem;
+}
